@@ -1,0 +1,1 @@
+ req -nodes -new -x509  server.key -out server.cert

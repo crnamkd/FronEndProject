@@ -20,6 +20,7 @@
     "connect": "^3.6.6",
     "express": "^4.16.4",
     "flexbox": "0.0.3",
+    "jshint": "^2.10.2",
     "scss": "^0.2.4",
     "serve-static": "^1.13.2"
   },
@@ -33,5 +34,6 @@
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.1.14"
-  }
+  },
+  "keywords": []
 }

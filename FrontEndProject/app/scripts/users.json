@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Tome Jovanov",
+        "info": 
+        [
+            {
+                "username": "tomas",
+                "password": "1"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Stefan Sibinovski",
+        "info": 
+        [
+            {
+                "username": "stefan",
+                "password": "2"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Darko Karapetkovski",
+        "info": 
+        [
+            {
+                "username": "darko",
+                "password": "3"
+            }
+        ]
+    }
+]
